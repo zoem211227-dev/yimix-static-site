@@ -1,0 +1,1749 @@
+{
+  "synced_at": "2026-10-17T07:19:21.342335+00:00",
+  "base": "https://www.yimixchair.com/",
+  "sitemap_urls": 55,
+  "files": {
+    "robots.txt": {
+      "url": "https://www.yimixchair.com/robots.txt",
+      "status": 200,
+      "bytes": 72,
+      "sha256": "eeea9be21a62f8deb6806ace4538efa4b3c4e1a353fe15d79a7797e0ea046743",
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"ad91085f7f444950f1ea79823bfaa4d3\"",
+      "last_modified": "Sat, 17 Oct 2026 04:39:52 GMT",
+      "x_vercel_id": "sfo1::qfdqt-1792221272894-95141f687e97"
+    },
+    "sitemap.xml": {
+      "url": "https://www.yimixchair.com/sitemap.xml",
+      "status": 200,
+      "bytes": 5823,
+      "sha256": "7371c0d18de8c034cda4a0c71f09373e43c27349bd939c6f885975d0ae313fe0",
+      "content_type": "application/xml; charset=utf-8",
+      "etag": "\"aa197d1ceae8266d57715e36cf1461f5\"",
+      "last_modified": "Sat, 17 Oct 2026 04:36:52 GMT",
+      "x_vercel_id": "sfo1::hkk4p-1792221273512-aa8866f71cd2"
+    },
+    "vercel.json": {
+      "url": "https://www.yimixchair.com/vercel.json",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "llms.txt": {
+      "url": "https://www.yimixchair.com/llms.txt",
+      "status": 200,
+      "bytes": 2275,
+      "sha256": "d5edc9acb09190e789ec9e5d39bfe0dcfbcf19a22192773fd8a6074f7ea5f48d",
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"dd81ac0e66130f80d0019e159f03d098\"",
+      "last_modified": "Sat, 17 Oct 2026 07:14:34 GMT",
+      "x_vercel_id": "sfo1::6vcwc-1792221274758-04f8f600143c"
+    },
+    "index.html": {
+      "url": "https://www.yimixchair.com/",
+      "status": 200,
+      "bytes": 92382,
+      "sha256": "ea62619c21ccdeb022dc8f807e3643ed1280bbdcacdc1dc8ab00edd6b2897890",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"e175ea9118bd6415221a44dbed8dbaf4\"",
+      "last_modified": "Fri, 16 Oct 2026 12:57:43 GMT",
+      "x_vercel_id": "sfo1::qpxmm-1792221275474-34a753fc591e"
+    },
+    "4d-hooded-massage-chair.html": {
+      "url": "https://www.yimixchair.com/4d-hooded-massage-chair.html",
+      "status": 200,
+      "bytes": 62255,
+      "sha256": "fda53b1099c5979f697324b34296d6192f7c541b957f7802b5ca2740613f9fd8",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"06cfa0eea46bf42288853f6f67f26569\"",
+      "last_modified": "Sat, 17 Oct 2026 05:15:48 GMT",
+      "x_vercel_id": "sfo1::559vm-1792221276368-32a8b13aa20b"
+    },
+    "4d-telescopic-sonic-massage-chair.html": {
+      "url": "https://www.yimixchair.com/4d-telescopic-sonic-massage-chair.html",
+      "status": 200,
+      "bytes": 64380,
+      "sha256": "932f07ab78557700dcc4b175ee6b7468cf84167e5b587e915d2fee44d4fc6350",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"613492f247b0f5c46de026da2d65688e\"",
+      "last_modified": "Sat, 17 Oct 2026 04:36:57 GMT",
+      "x_vercel_id": "sfo1::5wjqf-1792221277192-127627064982"
+    },
+    "blog.html": {
+      "url": "https://www.yimixchair.com/blog.html",
+      "status": 200,
+      "bytes": 56510,
+      "sha256": "d456a2ba25eb8b8283ae6ec2927039f275c7ff9a550e3a4ea420cfa4cd8e4ea2",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"663f2b1cda89f6415adbcfe308ff789a\"",
+      "last_modified": "Fri, 16 Oct 2026 11:16:58 GMT",
+      "x_vercel_id": "sfo1::7zcjh-1792221278034-751e6c23eca9"
+    },
+    "blog/buyer-brief.html": {
+      "url": "https://www.yimixchair.com/blog/buyer-brief.html",
+      "status": 200,
+      "bytes": 45001,
+      "sha256": "dfc1f1fea59ff71b49cc53559963f4d5a8ad4bdccf8aea4bee9c443b50e1399b",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"92338ec84322f2c3afb4189aabaed093\"",
+      "last_modified": "Sat, 17 Oct 2026 04:36:59 GMT",
+      "x_vercel_id": "sfo1::qxcwf-1792221278836-db035cc05788"
+    },
+    "blog/factory-visit.html": {
+      "url": "https://www.yimixchair.com/blog/factory-visit.html",
+      "status": 200,
+      "bytes": 44866,
+      "sha256": "8c4381fe0149538035b250f7f04a9a7e30f6914cbfa3280415be9334e4ec6e5c",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"62d024cc49039c6d03b61ccb5c2a6f98\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:02 GMT",
+      "x_vercel_id": "sfo1::qxcwf-1792221279630-7ec50e0ee256"
+    },
+    "blog/oem-odm.html": {
+      "url": "https://www.yimixchair.com/blog/oem-odm.html",
+      "status": 200,
+      "bytes": 50251,
+      "sha256": "7601479faeec55c6044719cd179ff04b9c7c052272fb5bde0b35ecf18eeba7ee",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"f4c90e56db48c8ad4101e6e66768ff23\"",
+      "last_modified": "Sat, 17 Oct 2026 04:23:55 GMT",
+      "x_vercel_id": "sfo1::829hj-1792221280412-aed17bc90355"
+    },
+    "commercial-massage-chair.html": {
+      "url": "https://www.yimixchair.com/commercial-massage-chair.html",
+      "status": 200,
+      "bytes": 60783,
+      "sha256": "1457718d5e6d37bf019e199e63533ba99867022b9397595b69540e993e7d4d43",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"8beba17950d0d46c087faa632c2b2a85\"",
+      "last_modified": "Fri, 16 Oct 2026 14:57:56 GMT",
+      "x_vercel_id": "sfo1::8zz9p-1792221281187-424716382af5"
+    },
+    "commercial-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/commercial-massage-chairs.html",
+      "status": 200,
+      "bytes": 69377,
+      "sha256": "8932e53154d3077e7cd8e8e7ca642e7ddcc236619da40c94f67e49d2529aa82b",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"ea7bd2ce80980c92e8795f67682ddc98\"",
+      "last_modified": "Fri, 16 Oct 2026 13:57:32 GMT",
+      "x_vercel_id": "sfo1::228f4-1792221282042-2763a0865ca8"
+    },
+    "commercial-sl-track-massage-chair.html": {
+      "url": "https://www.yimixchair.com/commercial-sl-track-massage-chair.html",
+      "status": 200,
+      "bytes": 63348,
+      "sha256": "79a64c86ecde196b9f9abb5f320bac9389c4672941db66be35daeb91d8d8a977",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"f90123400c7ec9366ae0fa6168f3b2cf\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:09 GMT",
+      "x_vercel_id": "sfo1::5wjqf-1792221282876-a360bf552da5"
+    },
+    "dual-jade-6d-massage-chair.html": {
+      "url": "https://www.yimixchair.com/dual-jade-6d-massage-chair.html",
+      "status": 200,
+      "bytes": 63613,
+      "sha256": "6eaad1bb01cbfb076465041a9a012f441e7c9a31066533725c47d9b3989a83e3",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"b7b3bd19af5aae89e9d1b8c5e8c752ee\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:11 GMT",
+      "x_vercel_id": "sfo1::8qqqm-1792221284030-9cb56ba06667"
+    },
+    "dual-upper-lower-massage-chair.html": {
+      "url": "https://www.yimixchair.com/dual-upper-lower-massage-chair.html",
+      "status": 200,
+      "bytes": 64234,
+      "sha256": "78a1b656d8ee7b2ede427c2509db8ebef7ab7f151d6239f13e295eb8aea7d32f",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"f2197cce9581f167e071f08d66a1cf75\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:12 GMT",
+      "x_vercel_id": "sfo1::89jfq-1792221284894-a1a7f1e860f2"
+    },
+    "espresso-gold-premium-massage-chair.html": {
+      "url": "https://www.yimixchair.com/espresso-gold-premium-massage-chair.html",
+      "status": 200,
+      "bytes": 63688,
+      "sha256": "e7f03653060ac0b8ed6a3430222d07cb88bb97ba3ab5005de737b37ea8b78159",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"1b04ea47cd1632c494b8109ebee55f09\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:13 GMT",
+      "x_vercel_id": "sfo1::fzz92-1792221286938-942247e4ec17"
+    },
+    "grey-home-comfort-massage-chair.html": {
+      "url": "https://www.yimixchair.com/grey-home-comfort-massage-chair.html",
+      "status": 200,
+      "bytes": 63172,
+      "sha256": "35a02b45897433badb4d2f76dad3ed7cc9419c1ff9d8c2aa16c499bc08132794",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"df3fba77a748fc5fa22600eae988743b\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:14 GMT",
+      "x_vercel_id": "sfo1::49tvh-1792221287984-3289ee0a5906"
+    },
+    "high-end-massage-chair.html": {
+      "url": "https://www.yimixchair.com/high-end-massage-chair.html",
+      "status": 200,
+      "bytes": 63137,
+      "sha256": "4329a9e589278833c38fcd84d0620a4d037282656788ae9a11bd3bbc72f11fbc",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"45050e685fd33159cf113dd322cd41e5\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:16 GMT",
+      "x_vercel_id": "sfo1::829hj-1792221288877-6ba5dafc34d8"
+    },
+    "home-massage-chair.html": {
+      "url": "https://www.yimixchair.com/home-massage-chair.html",
+      "status": 200,
+      "bytes": 62228,
+      "sha256": "9f172f026f6b349f9bb5c80fb4291d18555c0a684f921de851fc7f1d8bd43da0",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"ad02398f636634f4890f68d614d1a440\"",
+      "last_modified": "Sat, 17 Oct 2026 05:16:08 GMT",
+      "x_vercel_id": "sfo1::f9q58-1792221289810-fc749fc3af58"
+    },
+    "home-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/home-massage-chairs.html",
+      "status": 200,
+      "bytes": 75730,
+      "sha256": "b5272aa8f7e1c0632e984ee6b4f0c4fd0163c241b6a399e198361bec5fdc4177",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"29015aad92df3300b3ca14a90ccc64e8\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:18 GMT",
+      "x_vercel_id": "sfo1::w4bhr-1792221290823-30e45aaa839a"
+    },
+    "ivory-heated-premium-massage-chair.html": {
+      "url": "https://www.yimixchair.com/ivory-heated-premium-massage-chair.html",
+      "status": 200,
+      "bytes": 64648,
+      "sha256": "6aaed7ce6c2846d370a04521d23b562f5c3449644710aa86f4736af0f31bd4af",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"2265107f254e5d2fa34d12002bede951\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:19 GMT",
+      "x_vercel_id": "sfo1::vrgdq-1792221291754-03052edd1def"
+    },
+    "ivory-sl-track-massage-chair.html": {
+      "url": "https://www.yimixchair.com/ivory-sl-track-massage-chair.html",
+      "status": 200,
+      "bytes": 63381,
+      "sha256": "b766c0f5a804363a4625d8a036c3cf1bc427060c6dc0106bb422381f3f018a9f",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"2dad5d18446ff055f5db901cc386c660\"",
+      "last_modified": "Sat, 17 Oct 2026 07:14:52 GMT",
+      "x_vercel_id": "sfo1::s4v4z-1792221292806-d31cdf3f316c"
+    },
+    "massage-chair-buying-guide.html": {
+      "url": "https://www.yimixchair.com/massage-chair-buying-guide.html",
+      "status": 200,
+      "bytes": 49938,
+      "sha256": "e35de3748718d1a246cac56a73b47e605a34a52b2e0c20c5b1c2162690e99aff",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"54a46d6f02b79236cca9530fec2b408a\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:21 GMT",
+      "x_vercel_id": "sfo1::mkpsd-1792221293858-bf394e78edcc"
+    },
+    "massage-chair-faq.html": {
+      "url": "https://www.yimixchair.com/massage-chair-faq.html",
+      "status": 200,
+      "bytes": 53055,
+      "sha256": "7cda1888f26b1da1cd840c09e5b6c5ca2e25d478327a9892758f8ff10fc80f2f",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"60b5ce099bad46d5d72a8c2769d08928\"",
+      "last_modified": "Fri, 16 Oct 2026 13:09:18 GMT",
+      "x_vercel_id": "sfo1::qc98x-1792221294838-9de36b39fcd8"
+    },
+    "mid-range-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/mid-range-massage-chairs.html",
+      "status": 200,
+      "bytes": 74934,
+      "sha256": "a92271a323e75a07ce635867f14c10d15bb002a541cc1c1ca5478229eda113b8",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"3af0fea240e46990bd2030f57ebe34e1\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:24 GMT",
+      "x_vercel_id": "sfo1::c8bvj-1792221295713-39a648ae0f67"
+    },
+    "navy-dual-mechanism-massage-chair.html": {
+      "url": "https://www.yimixchair.com/navy-dual-mechanism-massage-chair.html",
+      "status": 200,
+      "bytes": 64270,
+      "sha256": "64ba2228788c0bea6e51eb53397ca88ae09611cccca30a2817a6b6967b638abe",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"5e1da8ac39d73f54e6f3e9af02246a2b\"",
+      "last_modified": "Sat, 17 Oct 2026 07:14:56 GMT",
+      "x_vercel_id": "sfo1::mkpsd-1792221296773-fdc879426f44"
+    },
+    "orange-4d-air-massage-chair.html": {
+      "url": "https://www.yimixchair.com/orange-4d-air-massage-chair.html",
+      "status": 200,
+      "bytes": 64532,
+      "sha256": "7635643ff7fa154bd4590eead248db2899f90bdb27ad7da3d8f3618605c4b7e0",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"a35d9e3a77fe1b7d87a821619a338b0d\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:26 GMT",
+      "x_vercel_id": "sfo1::r7qtt-1792221297820-036eea7ec947"
+    },
+    "pearl-vertical-sl-track-massage-chair.html": {
+      "url": "https://www.yimixchair.com/pearl-vertical-sl-track-massage-chair.html",
+      "status": 200,
+      "bytes": 64258,
+      "sha256": "5926031a08562e2094a0629776a9b16c6581a2fb14e50f7afa37012b6ff9a5bc",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"5b9cfdc80f640f506f1e3bd8c20ac9d7\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:27 GMT",
+      "x_vercel_id": "sfo1::5kt6g-1792221298829-2a3ead9568dc"
+    },
+    "premium-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/premium-massage-chairs.html",
+      "status": 200,
+      "bytes": 79064,
+      "sha256": "a5fda5074a9ef40949c6934abbce50d877b34b65fd064cd6f08486a208dbce2f",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"b2490f1358006169008beff9217cb977\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:28 GMT",
+      "x_vercel_id": "sfo1::jp4kn-1792221299769-12be82f62fb9"
+    },
+    "products.html": {
+      "url": "https://www.yimixchair.com/products.html",
+      "status": 200,
+      "bytes": 92261,
+      "sha256": "44bd33d444cc2bf05fc741b14bbb272a3edc7344c76ee79d392703c9a07df01f",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"aa9306e33068e77d7fa4c41e10c8b216\"",
+      "last_modified": "Sat, 17 Oct 2026 04:23:52 GMT",
+      "x_vercel_id": "sfo1::hkk4p-1792221300748-6d18464011f2"
+    },
+    "quilted-eye-airbag-home-massage-chair.html": {
+      "url": "https://www.yimixchair.com/quilted-eye-airbag-home-massage-chair.html",
+      "status": 200,
+      "bytes": 63751,
+      "sha256": "b0b2902416295c79307bf9c859800f8eb60ee2769f0afd20d38af453a385692c",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"bb6abd3e5f34b7091b2bba3c58e433b4\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:31 GMT",
+      "x_vercel_id": "sfo1::mlhn8-1792221301772-82c408913996"
+    },
+    "rs1178-premium-massage-chair.html": {
+      "url": "https://www.yimixchair.com/rs1178-premium-massage-chair.html",
+      "status": 200,
+      "bytes": 64241,
+      "sha256": "1d774bd61f46d94208104daab20df14b1f17d36753f806d417aaa52ae096c5d4",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"a41800c1db5bbb625714750b35a32e2c\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:32 GMT",
+      "x_vercel_id": "sfo1::559vm-1792221302723-6688899d2503"
+    },
+    "silver-sl-track-massage-chair.html": {
+      "url": "https://www.yimixchair.com/silver-sl-track-massage-chair.html",
+      "status": 200,
+      "bytes": 64105,
+      "sha256": "aba54f788e18d7a90c66658033ac1d49efc5562d09793bbfdb8e335a28910334",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"d93a6270c093e229aaff8be707c82238\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:34 GMT",
+      "x_vercel_id": "sfo1::8fwh5-1792221303698-996cc12ee928"
+    },
+    "six-head-premium-massage-chair.html": {
+      "url": "https://www.yimixchair.com/six-head-premium-massage-chair.html",
+      "status": 200,
+      "bytes": 65778,
+      "sha256": "cac3a18abcdb7c429cd65510efa5cf58b519e3c225c323dbd7586bf094292281",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"c4b6171e8667b055ccb803dd48e15c93\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:04 GMT",
+      "x_vercel_id": "sfo1::d28hc-1792221304714-f3d0022a6384"
+    },
+    "sonic-canopy-massage-chair.html": {
+      "url": "https://www.yimixchair.com/sonic-canopy-massage-chair.html",
+      "status": 200,
+      "bytes": 64049,
+      "sha256": "6230991a72f44e556c6967509e28f641fe8579acf823cf0b4217ff298ec1949a",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"d24277c4dfd02837d100e21a80598f53\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:38 GMT",
+      "x_vercel_id": "sfo1::mzlkw-1792221305766-688ec8a246d7"
+    },
+    "true-4d-premium-massage-chair.html": {
+      "url": "https://www.yimixchair.com/true-4d-premium-massage-chair.html",
+      "status": 200,
+      "bytes": 65857,
+      "sha256": "b880395ecf325582d97ba472c44885746f4a8e5f3a1405cb26d7edfaa202705b",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"7336ff3bc812aa31a022a30fffecfceb\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:39 GMT",
+      "x_vercel_id": "sfo1::f7z4j-1792221306702-7e5182863626"
+    },
+    "white-home-comfort-massage-chair.html": {
+      "url": "https://www.yimixchair.com/white-home-comfort-massage-chair.html",
+      "status": 200,
+      "bytes": 64846,
+      "sha256": "23cc32f56e2db6f00630bcc403646517ed768f3742d0140653e9fb66d1627455",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"e5f986dd67a9049feb0cc01c50ce69b0\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:40 GMT",
+      "x_vercel_id": "sfo1::dqf9n-1792221307743-1f85b7cd52a9"
+    },
+    "zz301-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zz301-massage-chair.html",
+      "status": 200,
+      "bytes": 63090,
+      "sha256": "c5cb18355eebaaad70c117011846178dc366a7867ef27781579afb52a2839ae3",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"3b0dbd5849d75a6fa623a1450ce6451f\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:41 GMT",
+      "x_vercel_id": "sfo1::h2psk-1792221308707-f0c02105b5e5"
+    },
+    "zz313-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zz313-massage-chair.html",
+      "status": 200,
+      "bytes": 63559,
+      "sha256": "d10f5676b957aa935455324943ccbfebf3b332b4718a64edcb5934ee72dbad34",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"2e3b3235fc0d8ea3ef4aa77a044a82c5\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:42 GMT",
+      "x_vercel_id": "sfo1::drsp7-1792221309868-8cbe92eed041"
+    },
+    "zz316-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zz316-massage-chair.html",
+      "status": 200,
+      "bytes": 64652,
+      "sha256": "15a4f8f642f7c2759295e1c30165cb91aad1b95c255bf4d5efa1936ce01d4e4f",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"14e518a05ec7a0d52e0560c828afa9eb\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:43 GMT",
+      "x_vercel_id": "sfo1::w25zz-1792221310774-1eacb49e3830"
+    },
+    "zz4301b-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zz4301b-massage-chair.html",
+      "status": 200,
+      "bytes": 65471,
+      "sha256": "6ecda114a29d790a557dc136df6cc755f9946f747b39d6475657049ca63bb466",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"daa47890fcf622fcdb8efc63959f08e9\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:44 GMT",
+      "x_vercel_id": "sfo1::5mhlt-1792221311833-f26340eb37a2"
+    },
+    "zz860a-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zz860a-massage-chair.html",
+      "status": 200,
+      "bytes": 65651,
+      "sha256": "d3265a36b38a22327c4a0356db6a092ffd55f0ce706dbd56e0f4373f89237630",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"b6b69b07d39edc3a95113aa87a1494cc\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:45 GMT",
+      "x_vercel_id": "sfo1::ql92j-1792221312760-a768128966dc"
+    },
+    "zz867a-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zz867a-massage-chair.html",
+      "status": 200,
+      "bytes": 65768,
+      "sha256": "b06db569bdd2a216f111fbc4243a305d4d3964a38ace5860f4bbcd6bf55c09db",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"0f7c580ba2b9680bce1d1d22770ef4d0\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:47 GMT",
+      "x_vercel_id": "sfo1::w4bhr-1792221313732-9af8451786cb"
+    },
+    "zz92-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zz92-massage-chair.html",
+      "status": 200,
+      "bytes": 63112,
+      "sha256": "44c5747083dd0fa61ecc810674dc47b71364f6b802c712190669baa4d0fd85a2",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"3ea714e7e5687e1fd0cf9b70224028e3\"",
+      "last_modified": "Fri, 16 Oct 2026 10:27:32 GMT",
+      "x_vercel_id": "sfo1::clgrp-1792221314659-499153e150cb"
+    },
+    "zza10-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zza10-massage-chair.html",
+      "status": 200,
+      "bytes": 63554,
+      "sha256": "ffc3b1700c0372a6e626c00e2178cc2cca08d396dad2d7041e1a6e2c5703d655",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"00962b7e466c71a0f85a18da9e68522f\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:49 GMT",
+      "x_vercel_id": "sfo1::rj9fl-1792221315583-ccd461db6ffa"
+    },
+    "zza8-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zza8-massage-chair.html",
+      "status": 200,
+      "bytes": 63672,
+      "sha256": "d0e7235b31ed53b4cd638401058dfa933f1e888127cb4269f73198e0870003ce",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"d4d6a3a1b3884efd0fe3d08847b7873d\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:50 GMT",
+      "x_vercel_id": "sfo1::prl25-1792221316821-8ddd771d27d1"
+    },
+    "zzg12-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zzg12-massage-chair.html",
+      "status": 200,
+      "bytes": 63341,
+      "sha256": "a6d8db2bdf6f05b4c60e706e6210318ed0546cbbf11a2cb613d1ac7001bcc9ec",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"e0aee12b77458d40c35a100c3ea90a4f\"",
+      "last_modified": "Fri, 16 Oct 2026 16:28:28 GMT",
+      "x_vercel_id": "sfo1::zzv4h-1792221317759-7a6891251f54"
+    },
+    "zzg9-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zzg9-massage-chair.html",
+      "status": 200,
+      "bytes": 67136,
+      "sha256": "91fffb713bf9eb80b70cc6f14cb9b1cbe7134828e0d78fdab5ba2c71555c35b1",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"6e5ddf81296a15936c8cf70aae051850\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:52 GMT",
+      "x_vercel_id": "sfo1::f7z4j-1792221318745-746874eccc7c"
+    },
+    "zzm15-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zzm15-massage-chair.html",
+      "status": 200,
+      "bytes": 63202,
+      "sha256": "d1ceacc52698b574120608e4623ca64ac8912a22e05c728f7118d2ea7e49411a",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"b4334ae6840c70dc28d46a33a065b407\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:53 GMT",
+      "x_vercel_id": "sfo1::pqnnk-1792221319770-a25c48b6bbeb"
+    },
+    "zzr1-massage-chair.html": {
+      "url": "https://www.yimixchair.com/zzr1-massage-chair.html",
+      "status": 200,
+      "bytes": 61505,
+      "sha256": "ffa25176ff1ad3768cda22e4474915af7921424f27cbafe81b711f49725fc4ae",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"69893c36955e5ab50a1db0fc0373d478\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:54 GMT",
+      "x_vercel_id": "sfo1::8zz9p-1792221320740-de081b17a7cd"
+    },
+    "compare-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/compare-massage-chairs.html",
+      "status": 200,
+      "bytes": 48188,
+      "sha256": "ac06cf3f9955dfb30be15df4b9764cb527c71dc7f623639e0a44aef15145f893",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"ab775f243e84b6aa1fb9e87959cf24dc\"",
+      "last_modified": "Fri, 16 Oct 2026 13:27:27 GMT",
+      "x_vercel_id": "sfo1::mrb62-1792221321776-c24e796b237e"
+    },
+    "massage-chair-shipping-guide.html": {
+      "url": "https://www.yimixchair.com/massage-chair-shipping-guide.html",
+      "status": 200,
+      "bytes": 47731,
+      "sha256": "636c51a0aa2ff00123da93a6f9ddb6a32c75b621c8eef2342dc47b8d8db1094f",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"3efe31469f968fec1d72c436a490e3a4\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:23 GMT",
+      "x_vercel_id": "sfo1::4hdv7-1792221322653-75d52eb2b771"
+    },
+    "privacy.html": {
+      "url": "https://www.yimixchair.com/privacy.html",
+      "status": 200,
+      "bytes": 4462,
+      "sha256": "ef7dcdad0148ecbee096ab9cc5bade3ad04da6fb53268be903f53eeb8fb76635",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"e7edc6d231e94ab9ef708d2aba8f6b4a\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:30 GMT",
+      "x_vercel_id": "sfo1::r7qtt-1792221323696-2007ca37b933"
+    },
+    "blog/home-vs-commercial-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/blog/home-vs-commercial-massage-chairs.html",
+      "status": 200,
+      "bytes": 53347,
+      "sha256": "c7a2a73e2c4213550bc2c90d1b4264d0ab6d42925cb08e4b64794d0e84863bc1",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"41c72f2d46607900000b7880944a1fae\"",
+      "last_modified": "Fri, 16 Oct 2026 09:31:21 GMT",
+      "x_vercel_id": "sfo1::l828f-1792221324390-3ffae5da1eca"
+    },
+    "blog/massage-chair-mechanism-comparison.html": {
+      "url": "https://www.yimixchair.com/blog/massage-chair-mechanism-comparison.html",
+      "status": 200,
+      "bytes": 53867,
+      "sha256": "772dd0192dbbd1e5a3689c0bd49adbea64677fded7091cd6a8427a67a1dd31ba",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"3da405724bc379d4410d3f15e5fe56f4\"",
+      "last_modified": "Fri, 16 Oct 2026 09:31:21 GMT",
+      "x_vercel_id": "sfo1::mkpsd-1792221325285-65c6436f3cf1"
+    },
+    "blog/massage-chair-sample-inspection-checklist.html": {
+      "url": "https://www.yimixchair.com/blog/massage-chair-sample-inspection-checklist.html",
+      "status": 200,
+      "bytes": 53554,
+      "sha256": "f338c953ec2f839595cc2937adbd9d598d2603d488b8456b556acf770339a0f3",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"172429a94a9ff8d159cf647118c8087e\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:05 GMT",
+      "x_vercel_id": "sfo1::fzz92-1792221326345-f15245bef2e5"
+    },
+    "blog/compare-massage-chair-supplier-quotes.html": {
+      "url": "https://www.yimixchair.com/blog/compare-massage-chair-supplier-quotes.html",
+      "status": 200,
+      "bytes": 53890,
+      "sha256": "52b79e1c749316097515caab4c0b0c6648b86e45c017e10e8541b107ab190a84",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"7c9651b88cb3af221123f7839493f9e1\"",
+      "last_modified": "Fri, 16 Oct 2026 09:31:21 GMT",
+      "x_vercel_id": "sfo1::dqf9n-1792221327349-41c14b92c2f1"
+    },
+    "blog/factory-video-call-checklist.html": {
+      "url": "https://www.yimixchair.com/blog/factory-video-call-checklist.html",
+      "status": 200,
+      "bytes": 53576,
+      "sha256": "0c86b306d68f4ce55e94cdf32cb873be184660ceeb53f71a1eb5cede3436876d",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"d94b9f148cc313e84a1c6c37ef0b0a12\"",
+      "last_modified": "Fri, 16 Oct 2026 09:31:21 GMT",
+      "x_vercel_id": "sfo1::tqtqp-1792221328227-18e57582ce68"
+    },
+    "assets/optimized/factory-banner-desktop.8056a4542244.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-banner-desktop.8056a4542244.webp",
+      "status": 200,
+      "bytes": 121550,
+      "sha256": "8056a4542244f61e91ae73fda3530b23bb4fe68c0a886c3a5176aca19db9e1b1",
+      "content_type": "image/webp",
+      "etag": "\"96ba3d4c90566ab29b442fde6d9df799\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::r7qtt-1792221329150-578315bea7b5"
+    },
+    "assets/optimized/factory-banner-mobile.55b1243b8b99.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-banner-mobile.55b1243b8b99.webp",
+      "status": 200,
+      "bytes": 64208,
+      "sha256": "55b1243b8b99a1980a051a19b9c304570dc49c7ad8e554f66df237955b37e07a",
+      "content_type": "image/webp",
+      "etag": "\"b8c4b3446ff02435792ad8ffa02132de\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:30 GMT",
+      "x_vercel_id": "sfo1::842c8-1792221330208-0620c67ccbe7"
+    },
+    "assets/icons/yimix-y-3f3a395e31c3.ico": {
+      "url": "https://www.yimixchair.com/assets/icons/yimix-y-3f3a395e31c3.ico",
+      "status": 200,
+      "bytes": 5399,
+      "sha256": "8be0b7cfb6aa0fcfef15067a3641082bc226c57c10ae856d498da0882c5bfcf0",
+      "content_type": "image/vnd.microsoft.icon",
+      "etag": "\"d6fdc0a5400390402c5d1a5e2dcb5c22\"",
+      "last_modified": "Fri, 16 Oct 2026 16:14:02 GMT",
+      "x_vercel_id": "sfo1::w25zz-1792221331628-4af7ba0c89ba"
+    },
+    "assets/icons/yimix-y-3f3a395e31c3-16.png": {
+      "url": "https://www.yimixchair.com/assets/icons/yimix-y-3f3a395e31c3-16.png",
+      "status": 200,
+      "bytes": 662,
+      "sha256": "8b66859a442a85313f4daf8c4a4347b4c030a011cc782559d1b1906391810837",
+      "content_type": "image/png",
+      "etag": "\"1ddacc668477ba242ae7359aaf768ea7\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:32 GMT",
+      "x_vercel_id": "sfo1::8zz9p-1792221332336-081520fe2b0f"
+    },
+    "assets/icons/yimix-y-3f3a395e31c3-32.png": {
+      "url": "https://www.yimixchair.com/assets/icons/yimix-y-3f3a395e31c3-32.png",
+      "status": 200,
+      "bytes": 1687,
+      "sha256": "cd7f0205712756ef15e1032d99bada317242dd1e6704d040a376a564d78dbfd0",
+      "content_type": "image/png",
+      "etag": "\"38bf73bc5a7b3b8279ef826aa27e71a4\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:33 GMT",
+      "x_vercel_id": "sfo1::br2jj-1792221333132-38cf371d1073"
+    },
+    "assets/icons/yimix-y-3f3a395e31c3-180.png": {
+      "url": "https://www.yimixchair.com/assets/icons/yimix-y-3f3a395e31c3-180.png",
+      "status": 200,
+      "bytes": 20719,
+      "sha256": "71b536281b30d36a289a764b36c310e12e43fc82838d0eae3b0799b752d2150b",
+      "content_type": "image/png",
+      "etag": "\"8e6b787bf0e5cd732cc0714dff7b1cfd\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:34 GMT",
+      "x_vercel_id": "sfo1::qrxtx-1792221333944-3362c48477af"
+    },
+    "assets/seo-content.css": {
+      "url": "https://www.yimixchair.com/assets/seo-content.css",
+      "status": 200,
+      "bytes": 2141,
+      "sha256": "7f05d10e811abec33a6eed735ea4701a3d4b9112c3133a1bc2b5eac4c1edaa92",
+      "content_type": "text/css; charset=utf-8",
+      "etag": "\"7bcde8928b308985341f043150f52dad\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::h2psk-1792221335341-4061778d67fa"
+    },
+    "assets/optimized/yimix-brand-logo.ed4fe0647f16.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/yimix-brand-logo.ed4fe0647f16.webp",
+      "status": 200,
+      "bytes": 109084,
+      "sha256": "ed4fe0647f1620961274c6c6d34f1ec7cc2fd6a79384c935aa2f93db0dade019",
+      "content_type": "image/webp",
+      "etag": "\"223fa1154184351e2bf90ae3fe431854\"",
+      "last_modified": "Fri, 16 Oct 2026 16:14:00 GMT",
+      "x_vercel_id": "sfo1::8cnlp-1792221336064-e9dedede9ec1"
+    },
+    "assets/optimized/home-massage-chair-card.d1d14053e91a.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/home-massage-chair-card.d1d14053e91a.webp",
+      "status": 200,
+      "bytes": 11992,
+      "sha256": "d1d14053e91a411fd7627ee77c2473b6a5043b87845eafae00e54e871286438b",
+      "content_type": "image/webp",
+      "etag": "\"a28b7b56b979d5475eabcfec4be04992\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::clgrp-1792221337493-dc197f08bc98"
+    },
+    "assets/optimized/commercial-massage-chair-card.7fa4e0c6aaa3.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/commercial-massage-chair-card.7fa4e0c6aaa3.webp",
+      "status": 200,
+      "bytes": 14786,
+      "sha256": "7fa4e0c6aaa362c528ac51dece1373164430ba916c60326b064188c2bd618cc2",
+      "content_type": "image/webp",
+      "etag": "\"ceacd272797640c0434c2c27e340ca5e\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::8zz9p-1792221338217-146eebf314ac"
+    },
+    "assets/optimized/zzg9-massage-chair-card.6104c400b4ad.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zzg9-massage-chair-card.6104c400b4ad.webp",
+      "status": 200,
+      "bytes": 16022,
+      "sha256": "6104c400b4adfe45a35e193e22b357270e4f996fdaec20f380a56428ba99f019",
+      "content_type": "image/webp",
+      "etag": "\"bf733c47e0ad91479f3e0d1994794376\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::hpz4w-1792221339020-1c9837587d06"
+    },
+    "assets/optimized/high-end-massage-chair-card.5f40e366f445.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/high-end-massage-chair-card.5f40e366f445.webp",
+      "status": 200,
+      "bytes": 22278,
+      "sha256": "5f40e366f44500bd970081e4736b0a4e4e25ac108a43450a1aa5a55144cb1159",
+      "content_type": "image/webp",
+      "etag": "\"49a909e048b00103e6debde0a4bad40a\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::7tfh4-1792221339754-72109e16b864"
+    },
+    "assets/optimized/factory-01-card.acf266eceddb.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-01-card.acf266eceddb.webp",
+      "status": 200,
+      "bytes": 25918,
+      "sha256": "acf266eceddb4dfdece9811d71bbb6d69c0da595a30fa79eba0a0d41f56e151d",
+      "content_type": "image/webp",
+      "etag": "\"566da9b7d9c9579b8fbcfd639e9849e9\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::7tfh4-1792221340551-b2a1c324520a"
+    },
+    "assets/yimix-factory-tour.mp4": {
+      "url": "https://www.yimixchair.com/assets/yimix-factory-tour.mp4",
+      "status": 200,
+      "bytes": 5224339,
+      "sha256": "6047233b87232712e31d2b4dbe597cc9f099180189ed5b1184fd0d9db30da5d5",
+      "content_type": "video/mp4",
+      "etag": "\"b5d9b6f4b9068162b06909e2fd7a5784\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:41 GMT",
+      "x_vercel_id": "sfo1::rkvxk-1792221341399-3955c5266c70"
+    },
+    "assets/optimized/factory-02-card.a0787ed53475.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-02-card.a0787ed53475.webp",
+      "status": 200,
+      "bytes": 26900,
+      "sha256": "a0787ed534751d0e1926dd47330ade15d24dd928f9ec0165ba133e2cfd9e7a8a",
+      "content_type": "image/webp",
+      "etag": "\"3af0022423b40563fc7151314d34e063\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::5hpj6-1792221343985-fa8ac352145c"
+    },
+    "assets/optimized/factory-03-card.2fede2d9b3e4.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-03-card.2fede2d9b3e4.webp",
+      "status": 200,
+      "bytes": 26464,
+      "sha256": "2fede2d9b3e4aaf3cd512a9ba99e507cf4da7d5e8517755383f2289eae1d0df3",
+      "content_type": "image/webp",
+      "etag": "\"f6c0833ac033f4d14a4cd46177bb6538\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::fzz92-1792221344791-4cc17595fda4"
+    },
+    "assets/optimized/factory-04-card.d8743d923780.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-04-card.d8743d923780.webp",
+      "status": 200,
+      "bytes": 34302,
+      "sha256": "d8743d9237808edd97689c2b716bedb245ef228efe499e66b5799b94660fca4b",
+      "content_type": "image/webp",
+      "etag": "\"f0ad9e3ce1eaa21d2e9920d5852cbb5d\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::hpz4w-1792221345613-d10c64195977"
+    },
+    "assets/optimized/factory-05-card.41282ac67519.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-05-card.41282ac67519.webp",
+      "status": 200,
+      "bytes": 26988,
+      "sha256": "41282ac67519fb8f04f8f37cd7f652f00602ac0ff524e1deb9658074c76cef68",
+      "content_type": "image/webp",
+      "etag": "\"848a6f3c9f3e06feec3212a03eccb620\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::t7qrw-1792221346576-22f81cd8eb9d"
+    },
+    "assets/optimized/factory-06-card.24bf1123bd3c.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-06-card.24bf1123bd3c.webp",
+      "status": 200,
+      "bytes": 26300,
+      "sha256": "24bf1123bd3c568738c976b9dab29f470d70578bd6767cdd7d78ba1420570703",
+      "content_type": "image/webp",
+      "etag": "\"dfaa3b076e296b2c934d197431a2d149\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::w4bhr-1792221350229-5420b5b17680"
+    },
+    "assets/optimized/factory-07-card.efe6e6e570fd.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-07-card.efe6e6e570fd.webp",
+      "status": 200,
+      "bytes": 26352,
+      "sha256": "efe6e6e570fd5689283845d956cc61856f6017ea135c41fab1f3f5a819fff750",
+      "content_type": "image/webp",
+      "etag": "\"cc55ebfad6d91b1925f059494446bcee\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:51 GMT",
+      "x_vercel_id": "sfo1::r7qtt-1792221351559-3f2a095b1921"
+    },
+    "assets/optimized/factory-08-card.9c3366469f0d.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-08-card.9c3366469f0d.webp",
+      "status": 200,
+      "bytes": 32508,
+      "sha256": "9c3366469f0ded2dd80cf8b14fcceb5c9abeff8506685109ebaeba90b73a5877",
+      "content_type": "image/webp",
+      "etag": "\"2b601949c56b81327a23609b8af79461\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:52 GMT",
+      "x_vercel_id": "sfo1::4hdv7-1792221352513-92f3d87414c0"
+    },
+    "assets/optimized/factory-09-card.0f4f1b74129c.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-09-card.0f4f1b74129c.webp",
+      "status": 200,
+      "bytes": 26158,
+      "sha256": "0f4f1b74129c69b47ca7908440fb069d086b17bba1fb071fc85aef948d008f4e",
+      "content_type": "image/webp",
+      "etag": "\"a88a138812239eb6855bc9bfde0010cb\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:53 GMT",
+      "x_vercel_id": "sfo1::fzz92-1792221353559-ab81b5fb6572"
+    },
+    "assets/optimized/factory-10-card.174a4db62b18.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-10-card.174a4db62b18.webp",
+      "status": 200,
+      "bytes": 24658,
+      "sha256": "174a4db62b18e424fa7a8ab8a463250fe61c09992703f4a62f0a19202c1753bc",
+      "content_type": "image/webp",
+      "etag": "\"a9c0db66e9d16b829bc963dc7a56ba20\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:54 GMT",
+      "x_vercel_id": "sfo1::7hm78-1792221354467-b642f91591c8"
+    },
+    "assets/optimized/cooperative-cases.18c16ea52891.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/cooperative-cases.18c16ea52891.webp",
+      "status": 200,
+      "bytes": 35140,
+      "sha256": "18c16ea52891fe869c94d26fa7242e10d76356c1e6021ba98fd98a4a9386d2b9",
+      "content_type": "image/webp",
+      "etag": "\"2572f4b73e705ae50e0c5a3a21f844f0\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:55 GMT",
+      "x_vercel_id": "sfo1::prl25-1792221355387-14c0dc57495f"
+    },
+    "assets/optimized/yimix-exhibitions.a368f5f5592e.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/yimix-exhibitions.a368f5f5592e.webp",
+      "status": 200,
+      "bytes": 206838,
+      "sha256": "a368f5f5592e8f89edd6482b80a5801b285277e74886d74d5e28d7222fedb97c",
+      "content_type": "image/webp",
+      "etag": "\"80f73a9ea87fb92d876fc5a099e85a39\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:56 GMT",
+      "x_vercel_id": "sfo1::78jtx-1792221356428-95540978156a"
+    },
+    "assets/optimized/yimix-certificates.880e4bf6f261.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/yimix-certificates.880e4bf6f261.webp",
+      "status": 200,
+      "bytes": 123296,
+      "sha256": "880e4bf6f2615d367ed9231dee7c585fda8df209b35e34bb2174064cd991e4fb",
+      "content_type": "image/webp",
+      "etag": "\"c6b66b7c3a7ca184b60dcb9630e799ee\"",
+      "last_modified": "Sat, 17 Oct 2026 07:15:57 GMT",
+      "x_vercel_id": "sfo1::fnr6v-1792221357835-dab6a60e90b6"
+    },
+    "downloads/yimix-product-list.csv": {
+      "url": "https://www.yimixchair.com/downloads/yimix-product-list.csv",
+      "status": 200,
+      "bytes": 4109,
+      "sha256": "f2d57e623f21dee9ffaad31e53f7491887d144d33ea1fec8d9060356f5868f5d",
+      "content_type": "text/csv; charset=utf-8",
+      "etag": "\"66d70066ba263594ae99242af367a5ed\"",
+      "last_modified": "Fri, 16 Oct 2026 14:07:50 GMT",
+      "x_vercel_id": "sfo1::829hj-1792221359162-d32c48229bed"
+    },
+    "assets/optimized/whatsapp-reference.34730f906cb9.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/whatsapp-reference.34730f906cb9.webp",
+      "status": 200,
+      "bytes": 16576,
+      "sha256": "34730f906cb9fec9a1cd6cb7d93273d7d52c133d81f17406528de233dd627748",
+      "content_type": "image/webp",
+      "etag": "\"7d15a5d4b0d6cf11e2527b2e06854f0c\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::ql92j-1792221359887-233f16589a3d"
+    },
+    "assets/growth-events.js": {
+      "url": "https://www.yimixchair.com/assets/growth-events.js",
+      "status": 200,
+      "bytes": 3853,
+      "sha256": "5844f18b40572a4799e8c57943035e5ba7bf14a7f27fda85cdb0f181e5b88aba",
+      "content_type": "application/javascript; charset=utf-8",
+      "etag": "\"0da762ef56410f12ba2ec2de552effea\"",
+      "last_modified": "Fri, 16 Oct 2026 09:30:12 GMT",
+      "x_vercel_id": "sfo1::8cnlp-1792221360744-a45374bde0a4"
+    },
+    "assets/optimized/mid-end-massage-chair.adba7ced40a8.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/mid-end-massage-chair.adba7ced40a8.webp",
+      "status": 200,
+      "bytes": 62324,
+      "sha256": "adba7ced40a8ba4a75cf3acf9303374545cf1d7d08b351782483338fd44496cf",
+      "content_type": "image/webp",
+      "etag": "\"060645e9264b56725b2395e250384bb4\"",
+      "last_modified": "Sat, 17 Oct 2026 06:50:27 GMT",
+      "x_vercel_id": "sfo1::dsrq2-1792221361456-a03a573a2c82"
+    },
+    "assets/optimized/mid-end-massage-chair-card.1549341a8f3e.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/mid-end-massage-chair-card.1549341a8f3e.webp",
+      "status": 200,
+      "bytes": 18460,
+      "sha256": "1549341a8f3ecd9bc1b5bd000dfa1b67875e99b8856d44e312bc19481239fa1a",
+      "content_type": "image/webp",
+      "etag": "\"100b11b5fa98b63afb8022fc4abcf593\"",
+      "last_modified": "Sat, 17 Oct 2026 05:13:21 GMT",
+      "x_vercel_id": "sfo1::6vcwc-1792221362378-3fa4cb743b7c"
+    },
+    "assets/optimized/home-massage-chair.7f235614b363.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/home-massage-chair.7f235614b363.webp",
+      "status": 200,
+      "bytes": 40512,
+      "sha256": "7f235614b3632c212beb6f3966e9ce0448874a2fc3b2ef026d951a1ecd79c97c",
+      "content_type": "image/webp",
+      "etag": "\"6bfe2eeaa6befe5bf458fb0b57626904\"",
+      "last_modified": "Sat, 17 Oct 2026 06:51:07 GMT",
+      "x_vercel_id": "sfo1::prl25-1792221363255-fe8aaf84e0b1"
+    },
+    "assets/optimized/commercial-massage-chair.9d90658eba32.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/commercial-massage-chair.9d90658eba32.webp",
+      "status": 200,
+      "bytes": 51520,
+      "sha256": "9d90658eba323ae4b0c70d2cb08f49773beed157c29dbd83eab637e7e8b3ac5d",
+      "content_type": "image/webp",
+      "etag": "\"f637370ee941b387845fb147183083fb\"",
+      "last_modified": "Sat, 17 Oct 2026 06:51:07 GMT",
+      "x_vercel_id": "sfo1::rj9fl-1792221364111-117150fce72e"
+    },
+    "assets/optimized/high-end-massage-chair.6facd4e8edf2.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/high-end-massage-chair.6facd4e8edf2.webp",
+      "status": 200,
+      "bytes": 84742,
+      "sha256": "6facd4e8edf2c1a3b2e112c6f97725cc46751a7a145b68431b7cdc58acfa568b",
+      "content_type": "image/webp",
+      "etag": "\"732f0a76147b1b1326cb1eb1df968654\"",
+      "last_modified": "Sat, 17 Oct 2026 06:51:07 GMT",
+      "x_vercel_id": "sfo1::8qqqm-1792221365109-5bd24cc35aae"
+    },
+    "assets/optimized/4d-telescopic-sonic-massage-chair.c236eea7c084.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/4d-telescopic-sonic-massage-chair.c236eea7c084.webp",
+      "status": 200,
+      "bytes": 25582,
+      "sha256": "c236eea7c0847de0d4ecffa39bd34955a1213559119f2c9224e2213cf2cefd37",
+      "content_type": "image/webp",
+      "etag": "\"faae43908e05d631c89a9c57c1f022b4\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:06 GMT",
+      "x_vercel_id": "sfo1::7zcjh-1792221366156-7784c5f7b17b"
+    },
+    "assets/optimized/4d-telescopic-sonic-massage-chair-card.af312ef4d7dc.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/4d-telescopic-sonic-massage-chair-card.af312ef4d7dc.webp",
+      "status": 200,
+      "bytes": 15912,
+      "sha256": "af312ef4d7dcbcfce4025acf6c761762720592bb36d3ff8f7a2b6814f7bd1c43",
+      "content_type": "image/webp",
+      "etag": "\"89803a469225c4bff5e7c4af86d73450\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:07 GMT",
+      "x_vercel_id": "sfo1::rkc5k-1792221367103-e6a251fa8100"
+    },
+    "assets/optimized/zzg9-massage-chair.41e630af75e6.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zzg9-massage-chair.41e630af75e6.webp",
+      "status": 200,
+      "bytes": 52794,
+      "sha256": "41e630af75e6fe006e2623f9d8d68c27259dad2a323b5199b7c2a945469a8566",
+      "content_type": "image/webp",
+      "etag": "\"d179cf5fb83775175d64111070ee7911\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:08 GMT",
+      "x_vercel_id": "sfo1::clgrp-1792221368048-82b7a226cf0f"
+    },
+    "assets/optimized/blog-selection-ai-960.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-selection-ai-960.webp",
+      "status": 200,
+      "bytes": 65692,
+      "sha256": "50ba0ba833b95f52508d093a57662cdb25c9bf8a41b3fc5335bb94706bcfb11f",
+      "content_type": "image/webp",
+      "etag": "\"c52026389b1f369ce430bb59d6806e63\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:09 GMT",
+      "x_vercel_id": "sfo1::228f4-1792221369168-7c42e6f01a89"
+    },
+    "assets/optimized/blog-selection-ai-480.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-selection-ai-480.webp",
+      "status": 200,
+      "bytes": 25850,
+      "sha256": "696ddecac99816fb2e01d6146a52009b5d047954499662bbeb535cae4e13a3fc",
+      "content_type": "image/webp",
+      "etag": "\"f7798571a7706cae29784eb23ce976ba\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:10 GMT",
+      "x_vercel_id": "sfo1::49tvh-1792221370434-b1f8c03784d6"
+    },
+    "assets/optimized/blog-mechanism-ai-960.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-mechanism-ai-960.webp",
+      "status": 200,
+      "bytes": 70164,
+      "sha256": "330a6b78a130b98790c5c188985337a14fa1b2051ef7f799a8115ae9528840c9",
+      "content_type": "image/webp",
+      "etag": "\"4b09b211d63bb16ed58571bc59bdd834\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:11 GMT",
+      "x_vercel_id": "sfo1::ql92j-1792221371347-afc59acd0dd8"
+    },
+    "assets/optimized/blog-mechanism-ai-480.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-mechanism-ai-480.webp",
+      "status": 200,
+      "bytes": 26206,
+      "sha256": "32b5bfac38de04089acf75f828c80d58243ffa951eb1becc316fd14a0e1e3f37",
+      "content_type": "image/webp",
+      "etag": "\"b3515deec55a659884822da88202c42f\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:12 GMT",
+      "x_vercel_id": "sfo1::8cnlp-1792221372534-45fe30845ddc"
+    },
+    "assets/optimized/blog-inspection-ai-960.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-inspection-ai-960.webp",
+      "status": 200,
+      "bytes": 49182,
+      "sha256": "fb442c25e19586e6e94cb667bd263c51caafbaa52a9a376dc1ff6a495e57ddda",
+      "content_type": "image/webp",
+      "etag": "\"296bc1305768fc6a0f286d383d60ed1a\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:13 GMT",
+      "x_vercel_id": "sfo1::8qqqm-1792221373512-d027f4b70c4f"
+    },
+    "assets/optimized/blog-inspection-ai-480.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-inspection-ai-480.webp",
+      "status": 200,
+      "bytes": 19446,
+      "sha256": "7bca9ed3bcab149b9ccd3c382ee4a4bf4feaeb14c5391250aec909be4f2fe803",
+      "content_type": "image/webp",
+      "etag": "\"6baf489125836510a2bdedb7270a0967\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:14 GMT",
+      "x_vercel_id": "sfo1::rkvxk-1792221374487-cbd869de39f3"
+    },
+    "assets/optimized/blog-packing-ai-960.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-packing-ai-960.webp",
+      "status": 200,
+      "bytes": 66126,
+      "sha256": "f801008d05cd3320b4533fe0fbbb8a0abddf3ac4c581099cc6591dbdf4556425",
+      "content_type": "image/webp",
+      "etag": "\"dd6be3c7c8b93455b9cf484bf14736c6\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:15 GMT",
+      "x_vercel_id": "sfo1::h2psk-1792221375445-18df65b33e38"
+    },
+    "assets/optimized/blog-packing-ai-480.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-packing-ai-480.webp",
+      "status": 200,
+      "bytes": 23136,
+      "sha256": "672dcb914ef13dca97710fc73455bef2a7d7f68b2831857d48c1c68b51173e08",
+      "content_type": "image/webp",
+      "etag": "\"41d36ccdb389a4ece6fd4b2e02e14c27\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:16 GMT",
+      "x_vercel_id": "sfo1::qc98x-1792221376584-88238880479d"
+    },
+    "assets/optimized/blog-walkthrough-ai-960.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-walkthrough-ai-960.webp",
+      "status": 200,
+      "bytes": 81678,
+      "sha256": "6b93fbe0b3fd55d941c6973f46c2f94bdb0a48082c6687dd023411aae79377e2",
+      "content_type": "image/webp",
+      "etag": "\"8a5d4ce64440c1ea95670f6039970e3a\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:17 GMT",
+      "x_vercel_id": "sfo1::cw8vl-1792221377527-e55de66ae834"
+    },
+    "assets/optimized/blog-walkthrough-ai-480.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/blog-walkthrough-ai-480.webp",
+      "status": 200,
+      "bytes": 30778,
+      "sha256": "9b31601f2c889cbb69f5a0bd293d0cccb7d92330e6be28b4fd178851744c00f4",
+      "content_type": "image/webp",
+      "etag": "\"3a3e8ab9787b463accb83d38aa19633e\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:18 GMT",
+      "x_vercel_id": "sfo1::8zz9p-1792221378621-f56324a1b597"
+    },
+    "assets/optimized/factory-03.d7b0f43d093d.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-03.d7b0f43d093d.webp",
+      "status": 200,
+      "bytes": 28370,
+      "sha256": "d7b0f43d093d159c9592efea988ca0dd159e282d8d7cba00175dbcf271f06b87",
+      "content_type": "image/webp",
+      "etag": "\"5044c4f11fb226edf435b361c66ca3d2\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:19 GMT",
+      "x_vercel_id": "sfo1::vrgdq-1792221379554-370eaaae28b0"
+    },
+    "assets/optimized/factory-07.951c4a12013f.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-07.951c4a12013f.webp",
+      "status": 200,
+      "bytes": 28214,
+      "sha256": "951c4a12013f366c259a5a885bac50ef683f448ea0477bfd1a7780fed28ad9d1",
+      "content_type": "image/webp",
+      "etag": "\"bced810edfe6771ca43cbf1c08b08846\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:20 GMT",
+      "x_vercel_id": "sfo1::kltbb-1792221380822-3cdc43d9160f"
+    },
+    "assets/optimized/factory-01.2764463b7437.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/factory-01.2764463b7437.webp",
+      "status": 200,
+      "bytes": 27982,
+      "sha256": "2764463b7437db7b0b92804cb6ebb8381928d097cd85592fcf57261e192571d2",
+      "content_type": "image/webp",
+      "etag": "\"e2b667c81183d4ae607d25bf1951b4d7\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:22 GMT",
+      "x_vercel_id": "sfo1::fnr6v-1792221382603-4affa4c88ffb"
+    },
+    "assets/optimized/commercial-sl-track-massage-chair-card.74632e2fc360.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/commercial-sl-track-massage-chair-card.74632e2fc360.webp",
+      "status": 200,
+      "bytes": 12740,
+      "sha256": "74632e2fc3603978d17a2ea899ef26ee8b737feb20b8e3ebbddcb1b299b646c4",
+      "content_type": "image/webp",
+      "etag": "\"a372f082635b12e94363f35f6e14eac1\"",
+      "last_modified": "Fri, 16 Oct 2026 16:14:05 GMT",
+      "x_vercel_id": "sfo1::cw8vl-1792221383614-0699a679432a"
+    },
+    "assets/optimized/commercial-sl-track-massage-chair.10e1edee8010.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/commercial-sl-track-massage-chair.10e1edee8010.webp",
+      "status": 200,
+      "bytes": 23640,
+      "sha256": "10e1edee80107b249e57bbd238660b27758c5cd809d2661b7751193ea6c291f5",
+      "content_type": "image/webp",
+      "etag": "\"1fcebef2af63009fed061c24a3a0af5d\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:24 GMT",
+      "x_vercel_id": "sfo1::fcvtd-1792221384392-ee323ed6f572"
+    },
+    "assets/optimized/dual-jade-6d-massage-chair.76624554954d.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/dual-jade-6d-massage-chair.76624554954d.webp",
+      "status": 200,
+      "bytes": 33940,
+      "sha256": "76624554954dc78d69c423ef792a8b3152b4f03642a5f2102de35fdedcb87803",
+      "content_type": "image/webp",
+      "etag": "\"6cbcd4fc8f69b7a61c0515d20928200c\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:26 GMT",
+      "x_vercel_id": "sfo1::8fwh5-1792221386443-a07bf5a0b182"
+    },
+    "assets/optimized/dual-jade-6d-massage-chair-card.f94acd09b4c7.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/dual-jade-6d-massage-chair-card.f94acd09b4c7.webp",
+      "status": 200,
+      "bytes": 21698,
+      "sha256": "f94acd09b4c76c77e7fe3161faedc1479837191549c7542aa588ce49f20fd3e4",
+      "content_type": "image/webp",
+      "etag": "\"bc161911c239cf553453c6522ec34d49\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:27 GMT",
+      "x_vercel_id": "sfo1::kgtnc-1792221387503-e500e80ed261"
+    },
+    "assets/optimized/dual-upper-lower-massage-chair.bd398889596d.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/dual-upper-lower-massage-chair.bd398889596d.webp",
+      "status": 200,
+      "bytes": 20114,
+      "sha256": "bd398889596d283dc8a28db540b77e1a1d6fc360c7a1011feb4cf89886094d0e",
+      "content_type": "image/webp",
+      "etag": "\"e049e8c40df59a65b24873e86937cf4f\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:28 GMT",
+      "x_vercel_id": "sfo1::ms6fn-1792221388435-1517b2548862"
+    },
+    "assets/optimized/dual-upper-lower-massage-chair-card.821ffab2bae1.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/dual-upper-lower-massage-chair-card.821ffab2bae1.webp",
+      "status": 200,
+      "bytes": 12236,
+      "sha256": "821ffab2bae1a224254a46296db3fc2de827dc505f384f56c596e94dc5b4a127",
+      "content_type": "image/webp",
+      "etag": "\"206f68eddaeebbd6e4aaa39c3fb01ad8\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:30 GMT",
+      "x_vercel_id": "sfo1::vflmc-1792221390028-6b6cabfcb81e"
+    },
+    "assets/optimized/espresso-gold-premium-massage-chair.4f84db0cf420.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/espresso-gold-premium-massage-chair.4f84db0cf420.webp",
+      "status": 200,
+      "bytes": 24314,
+      "sha256": "4f84db0cf42012fec80bbde5a4434e0249243654f671967cd892b601051dc2f0",
+      "content_type": "image/webp",
+      "etag": "\"6d08a58f62e7268bcad23333285a8f04\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:31 GMT",
+      "x_vercel_id": "sfo1::8zz9p-1792221390984-230500d47f26"
+    },
+    "assets/optimized/espresso-gold-premium-massage-chair-card.000673668e5c.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/espresso-gold-premium-massage-chair-card.000673668e5c.webp",
+      "status": 200,
+      "bytes": 16592,
+      "sha256": "000673668e5c2723534040c64f5ad7b55d26ef902d80fcf92bfe06a2641beeeb",
+      "content_type": "image/webp",
+      "etag": "\"f00ca0ba388976da54336ed1101bbd7e\"",
+      "last_modified": "Sat, 17 Oct 2026 05:13:22 GMT",
+      "x_vercel_id": "sfo1::lz547-1792221391971-ccca4a497784"
+    },
+    "assets/optimized/grey-home-comfort-massage-chair.15ae98ba0782.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/grey-home-comfort-massage-chair.15ae98ba0782.webp",
+      "status": 200,
+      "bytes": 24876,
+      "sha256": "15ae98ba0782b46dd2cb3c6f9969da5775bdbd380c5ddef599d69ace30218081",
+      "content_type": "image/webp",
+      "etag": "\"0a5dda8d0d7d0d407dfd03e99c0ff0a9\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:32 GMT",
+      "x_vercel_id": "sfo1::6ghrm-1792221392744-c641679b5dad"
+    },
+    "assets/optimized/grey-home-comfort-massage-chair-card.4d5d0a76205d.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/grey-home-comfort-massage-chair-card.4d5d0a76205d.webp",
+      "status": 200,
+      "bytes": 16456,
+      "sha256": "4d5d0a76205d701380d56e0e8bed75f53b049eff93c288a8a048a09a747a3550",
+      "content_type": "image/webp",
+      "etag": "\"dbfe3ee24f820a3e20abc0ed12d9e086\"",
+      "last_modified": "Sat, 17 Oct 2026 05:13:22 GMT",
+      "x_vercel_id": "sfo1::r7qtt-1792221393738-741a201edaf5"
+    },
+    "assets/optimized/zza8-massage-chair.2810255ba85d.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zza8-massage-chair.2810255ba85d.webp",
+      "status": 200,
+      "bytes": 49680,
+      "sha256": "2810255ba85d7b76622617c1aa618b06d30483b18a53862a05ac4bee65857a12",
+      "content_type": "image/webp",
+      "etag": "\"9c4679d837e78057013f1cd5e673a000\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:34 GMT",
+      "x_vercel_id": "sfo1::56wsr-1792221394554-c14330d13e45"
+    },
+    "assets/optimized/zza8-massage-chair-card.9fa4f5f7d3b1.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zza8-massage-chair-card.9fa4f5f7d3b1.webp",
+      "status": 200,
+      "bytes": 15212,
+      "sha256": "9fa4f5f7d3b1fe405c5c163d4c8e77fc9785a2de4ff81d5301942ad1de9fa391",
+      "content_type": "image/webp",
+      "etag": "\"2d87ea21fdc1a26b0b92572ab5d11c4f\"",
+      "last_modified": "Fri, 16 Oct 2026 16:14:05 GMT",
+      "x_vercel_id": "sfo1::26cx2-1792221395559-f7b9ea1dbf6a"
+    },
+    "assets/optimized/zz92-massage-chair-card.5777fb398662.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz92-massage-chair-card.5777fb398662.webp",
+      "status": 200,
+      "bytes": 19234,
+      "sha256": "5777fb398662458ee8f3028006e37a8fe17e463fa22e279306e9d899be69a103",
+      "content_type": "image/webp",
+      "etag": "\"a58b365b3bda9278d644aad10e5a08aa\"",
+      "last_modified": "Fri, 16 Oct 2026 12:27:43 GMT",
+      "x_vercel_id": "sfo1::fzz92-1792221396341-c889978809b0"
+    },
+    "assets/optimized/zzm15-massage-chair-card.453a1ada551a.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zzm15-massage-chair-card.453a1ada551a.webp",
+      "status": 200,
+      "bytes": 16044,
+      "sha256": "453a1ada551a3d6b0dc4d2f8b9a3d2c67d1bfc156cb7270a6cc55062dc25f704",
+      "content_type": "image/webp",
+      "etag": "\"fffaecb17717027c61aff07255115fdb\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:37 GMT",
+      "x_vercel_id": "sfo1::78jtx-1792221397140-4166f6846df2"
+    },
+    "assets/optimized/zz316-massage-chair-card.ea120c45341a.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz316-massage-chair-card.ea120c45341a.webp",
+      "status": 200,
+      "bytes": 15358,
+      "sha256": "ea120c45341ac14dc4cd05913a1fdfbbea9fa91f34ed60d2f616ac6c24fc4035",
+      "content_type": "image/webp",
+      "etag": "\"da08e606dcab6b25b4158ac2591ef4fe\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:38 GMT",
+      "x_vercel_id": "sfo1::mkpsd-1792221398600-02476c160c86"
+    },
+    "assets/optimized/zz301-massage-chair-card.95c69c51b7f8.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz301-massage-chair-card.95c69c51b7f8.webp",
+      "status": 200,
+      "bytes": 17154,
+      "sha256": "95c69c51b7f859f6d372423a85633eb8c503add43bc9e70e2c66098907af5b1b",
+      "content_type": "image/webp",
+      "etag": "\"4aed8c6ba019c44e32feac3bdd19336a\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:39 GMT",
+      "x_vercel_id": "sfo1::89jfq-1792221399457-2f46e3996b28"
+    },
+    "assets/optimized/zzr1-massage-chair-card.666196a79846.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zzr1-massage-chair-card.666196a79846.webp",
+      "status": 200,
+      "bytes": 15028,
+      "sha256": "666196a798466fab5c6cde4fffb96457796db48de26b507482337c99d0c1e31b",
+      "content_type": "image/webp",
+      "etag": "\"bb1562d5bde61aebe79d1f97a22d7274\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:40 GMT",
+      "x_vercel_id": "sfo1::br2jj-1792221400343-fa96af651ca8"
+    },
+    "assets/optimized/zz4301b-massage-chair-card.b11eb5894726.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz4301b-massage-chair-card.b11eb5894726.webp",
+      "status": 200,
+      "bytes": 19800,
+      "sha256": "b11eb58947267cf98db798dce0945da468e187c17935931f0204bbfe6fd8df59",
+      "content_type": "image/webp",
+      "etag": "\"65ea7e0cf3e94ea88bad77ace75e54c7\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:41 GMT",
+      "x_vercel_id": "sfo1::prl25-1792221401285-f4fd2a71d288"
+    },
+    "assets/optimized/white-home-comfort-massage-chair-card.0147ced8d1db.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/white-home-comfort-massage-chair-card.0147ced8d1db.webp",
+      "status": 200,
+      "bytes": 13368,
+      "sha256": "0147ced8d1db9598d1835b433b412fe81995f49e419addc31878c9b647567828",
+      "content_type": "image/webp",
+      "etag": "\"a34271e9f2a5bed6be6a31263dee06ad\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:42 GMT",
+      "x_vercel_id": "sfo1::mkpsd-1792221402248-ecfee6a9557d"
+    },
+    "assets/optimized/quilted-eye-airbag-home-massage-chair-card.63fa22717d1e.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/quilted-eye-airbag-home-massage-chair-card.63fa22717d1e.webp",
+      "status": 200,
+      "bytes": 16432,
+      "sha256": "63fa22717d1e37cbc881a543dee40693d55aeb244b1464c31220fb16f497197d",
+      "content_type": "image/webp",
+      "etag": "\"391e2b9c2c42340efcedf10e207b2ec6\"",
+      "last_modified": "Sat, 17 Oct 2026 05:13:23 GMT",
+      "x_vercel_id": "sfo1::qrxtx-1792221403150-1a6892c1ff69"
+    },
+    "assets/optimized/ivory-heated-premium-massage-chair.7f6c2eb35bfb.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/ivory-heated-premium-massage-chair.7f6c2eb35bfb.webp",
+      "status": 200,
+      "bytes": 22924,
+      "sha256": "7f6c2eb35bfb234daf19b268874c4d991c334aaea3498e1a1d7ec821c4720422",
+      "content_type": "image/webp",
+      "etag": "\"97d93b57f4ffa72fa4d3ea93daeb7129\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:44 GMT",
+      "x_vercel_id": "sfo1::wcg6h-1792221403909-703b59c272d4"
+    },
+    "assets/optimized/ivory-heated-premium-massage-chair-card.49cbe6139475.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/ivory-heated-premium-massage-chair-card.49cbe6139475.webp",
+      "status": 200,
+      "bytes": 13842,
+      "sha256": "49cbe6139475fe58ec9914d81cb4162b3d55778f97495c412cdf098677a996f0",
+      "content_type": "image/webp",
+      "etag": "\"7894e6b829cc3e5f8863cfa69b6d881c\"",
+      "last_modified": "Sat, 17 Oct 2026 05:13:22 GMT",
+      "x_vercel_id": "sfo1::5wjqf-1792221404858-e203ca63a241"
+    },
+    "assets/optimized/ivory-sl-track-massage-chair.5b97d86d3fd0.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/ivory-sl-track-massage-chair.5b97d86d3fd0.webp",
+      "status": 200,
+      "bytes": 20982,
+      "sha256": "5b97d86d3fd0de5c202abc5a83a7852f9e519866a37593b7ad1a492d56670f5a",
+      "content_type": "image/webp",
+      "etag": "\"d05d500258b63dc78179629850dcdffc\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:45 GMT",
+      "x_vercel_id": "sfo1::vpvpp-1792221405614-19a23f45b640"
+    },
+    "assets/optimized/ivory-sl-track-massage-chair-card.f1df0b353b92.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/ivory-sl-track-massage-chair-card.f1df0b353b92.webp",
+      "status": 200,
+      "bytes": 13262,
+      "sha256": "f1df0b353b925f1fe282ea5b46b4f734f07cd363fd2e5554af10fa6df73192e7",
+      "content_type": "image/webp",
+      "etag": "\"ece8d70365ecdcb12489ffcce133f01c\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:46 GMT",
+      "x_vercel_id": "sfo1::tqtqp-1792221406574-e64c7ee5e596"
+    },
+    "assets/optimized/zzg12-massage-chair-card.102109715be8.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zzg12-massage-chair-card.102109715be8.webp",
+      "status": 200,
+      "bytes": 14004,
+      "sha256": "102109715be89861776e83127336f054cb427ea672997924f4891a28ece36022",
+      "content_type": "image/webp",
+      "etag": "\"8c4426e155b2ac8f830eeaffde06bfda\"",
+      "last_modified": "Sat, 17 Oct 2026 05:13:21 GMT",
+      "x_vercel_id": "sfo1::8dpbh-1792221407455-853639c956f2"
+    },
+    "assets/optimized/zz860a-massage-chair-card.ab8bac2a21ba.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz860a-massage-chair-card.ab8bac2a21ba.webp",
+      "status": 200,
+      "bytes": 24282,
+      "sha256": "ab8bac2a21bae789399cf146da0701f7dccbf703c8a427a1555b5bf7c0c7c8ad",
+      "content_type": "image/webp",
+      "etag": "\"c363a95095e13fce90c131dbf2bfae48\"",
+      "last_modified": "Fri, 16 Oct 2026 16:14:05 GMT",
+      "x_vercel_id": "sfo1::w25zz-1792221408201-5f081a9d4bf6"
+    },
+    "assets/optimized/zz867a-massage-chair-card.7b17d8a1f94f.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz867a-massage-chair-card.7b17d8a1f94f.webp",
+      "status": 200,
+      "bytes": 11422,
+      "sha256": "7b17d8a1f94fb98a4470da75d4e150f31e768cd01999d4be148a793a3214f226",
+      "content_type": "image/webp",
+      "etag": "\"2a6ea53521c8a02ecba7373a981b254c\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:49 GMT",
+      "x_vercel_id": "sfo1::dkt9b-1792221409128-876d8a09ba68"
+    },
+    "assets/optimized/silver-sl-track-massage-chair-card.0c66dde7fc5c.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/silver-sl-track-massage-chair-card.0c66dde7fc5c.webp",
+      "status": 200,
+      "bytes": 12662,
+      "sha256": "0c66dde7fc5c53e86d9f68bfa8c7aa3f915df760de075ce1de1e1adbf0f767af",
+      "content_type": "image/webp",
+      "etag": "\"1506e102ea0f90278853584fb8674e2d\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:50 GMT",
+      "x_vercel_id": "sfo1::9bg62-1792221409960-6a1ae749c513"
+    },
+    "assets/optimized/orange-4d-air-massage-chair-card.35b5e0771694.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/orange-4d-air-massage-chair-card.35b5e0771694.webp",
+      "status": 200,
+      "bytes": 17948,
+      "sha256": "35b5e077169403b35656d580eb12eb07dfd378deba47f41db00cc0cd60cd18a6",
+      "content_type": "image/webp",
+      "etag": "\"dec49104a0e48b9269baa5b100383589\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:50 GMT",
+      "x_vercel_id": "sfo1::8dpbh-1792221410789-59d949673b2f"
+    },
+    "assets/optimized/pearl-vertical-sl-track-massage-chair-card.284ae478a872.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/pearl-vertical-sl-track-massage-chair-card.284ae478a872.webp",
+      "status": 200,
+      "bytes": 13526,
+      "sha256": "284ae478a87220e5096fbba38228b12bb6a44ced412ef95b3165dec8c095b51e",
+      "content_type": "image/webp",
+      "etag": "\"ece67c73a788379eacd18567eb388e2c\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:51 GMT",
+      "x_vercel_id": "sfo1::zzv4h-1792221411732-a082a60026ea"
+    },
+    "assets/optimized/navy-dual-mechanism-massage-chair.ab8d4e3ac291.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/navy-dual-mechanism-massage-chair.ab8d4e3ac291.webp",
+      "status": 200,
+      "bytes": 28072,
+      "sha256": "ab8d4e3ac2919829766c43cd802e901598dc63a6dca4bab544af781dbe0cbd42",
+      "content_type": "image/webp",
+      "etag": "\"5328417098ec6448950c02cb0fa2600f\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:52 GMT",
+      "x_vercel_id": "sfo1::jszdx-1792221412664-beb1dec30896"
+    },
+    "assets/optimized/navy-dual-mechanism-massage-chair-card.c335ed51c3f4.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/navy-dual-mechanism-massage-chair-card.c335ed51c3f4.webp",
+      "status": 200,
+      "bytes": 15250,
+      "sha256": "c335ed51c3f4a8d8541163ee475d1f104d75f3d9f73b412061e72fdd0b02ad1f",
+      "content_type": "image/webp",
+      "etag": "\"f7ec31ff8cdcb4923aa9f47fa268b7b6\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:53 GMT",
+      "x_vercel_id": "sfo1::h2psk-1792221413605-b59d44cdccda"
+    },
+    "assets/optimized/orange-4d-air-massage-chair.27d72e056e4c.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/orange-4d-air-massage-chair.27d72e056e4c.webp",
+      "status": 200,
+      "bytes": 28880,
+      "sha256": "27d72e056e4cc71bd727190ca0d73c43536876b3c2d409c04d27c05a361af6a9",
+      "content_type": "image/webp",
+      "etag": "\"894d1fdd9f33ab22569fe6ba23d96c59\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:54 GMT",
+      "x_vercel_id": "sfo1::zzv4h-1792221414456-2c61cff6477e"
+    },
+    "assets/optimized/pearl-vertical-sl-track-massage-chair.8b89ea3fb3f1.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/pearl-vertical-sl-track-massage-chair.8b89ea3fb3f1.webp",
+      "status": 200,
+      "bytes": 21308,
+      "sha256": "8b89ea3fb3f19a8760350f1d31809fb75ff09868303e66367413e763b87894a8",
+      "content_type": "image/webp",
+      "etag": "\"67ed59b3fd44cf5c385823251073a989\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:55 GMT",
+      "x_vercel_id": "sfo1::kltbb-1792221415420-5058451b36fd"
+    },
+    "assets/optimized/zz313-massage-chair-card.b27169805434.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz313-massage-chair-card.b27169805434.webp",
+      "status": 200,
+      "bytes": 17052,
+      "sha256": "b27169805434e3a28b161556519737a566b2657e8e6a28eeee0e84f00664e161",
+      "content_type": "image/webp",
+      "etag": "\"e2ac1775f176aca5baa51d02546f5bc2\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:56 GMT",
+      "x_vercel_id": "sfo1::9g99f-1792221416378-50a40d8b525e"
+    },
+    "assets/optimized/zza10-massage-chair-card.1514438fea81.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zza10-massage-chair-card.1514438fea81.webp",
+      "status": 200,
+      "bytes": 15762,
+      "sha256": "1514438fea81c3640345a7e12ca920b01a97ce29e703751c7c4088deb043d56d",
+      "content_type": "image/webp",
+      "etag": "\"bf541ff5352c28fcc611354206f2cbd8\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:57 GMT",
+      "x_vercel_id": "sfo1::76vr4-1792221417295-b0c202ca213d"
+    },
+    "assets/optimized/sonic-canopy-massage-chair-card.903e87d1cf84.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/sonic-canopy-massage-chair-card.903e87d1cf84.webp",
+      "status": 200,
+      "bytes": 15702,
+      "sha256": "903e87d1cf84b6bc1e953aae429cbc2d3035c29977c9df2d03cbd2a6af9d738c",
+      "content_type": "image/webp",
+      "etag": "\"ccfcbbeea9ccf4d21124222443b2d61f\"",
+      "last_modified": "Sat, 17 Oct 2026 07:16:58 GMT",
+      "x_vercel_id": "sfo1::str4t-1792221418155-6193396c35fe"
+    },
+    "assets/optimized/six-head-premium-massage-chair-card.5a919934ffea.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/six-head-premium-massage-chair-card.5a919934ffea.webp",
+      "status": 200,
+      "bytes": 17734,
+      "sha256": "5a919934ffea281c30e37eb70618c3312d02cb83c38f15d02390cf67e80d7280",
+      "content_type": "image/webp",
+      "etag": "\"15df7ea3fee98242811476c1662fc7a0\"",
+      "last_modified": "Sat, 17 Oct 2026 05:13:22 GMT",
+      "x_vercel_id": "sfo1::qrxtx-1792221419039-f353ebcec247"
+    },
+    "assets/optimized/true-4d-premium-massage-chair-card.01df24a2fe19.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/true-4d-premium-massage-chair-card.01df24a2fe19.webp",
+      "status": 200,
+      "bytes": 17936,
+      "sha256": "01df24a2fe1970e3a298a949facfb9438aaf2102fe33edfcb6b54b51a6c52adf",
+      "content_type": "image/webp",
+      "etag": "\"55406e35dff1a36824b0e5055a9a4f6f\"",
+      "last_modified": "Sat, 17 Oct 2026 05:13:23 GMT",
+      "x_vercel_id": "sfo1::fzz92-1792221419864-267cc829e0b8"
+    },
+    "assets/optimized/rs1178-premium-massage-chair-card.ed7c25b112dd.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/rs1178-premium-massage-chair-card.ed7c25b112dd.webp",
+      "status": 200,
+      "bytes": 18064,
+      "sha256": "ed7c25b112dd9f3a4f57c6beb08ff8b63af08d21d594e2660158ff86c793da85",
+      "content_type": "image/webp",
+      "etag": "\"640c504719411112bfeec13285c5ef14\"",
+      "last_modified": "Sat, 17 Oct 2026 05:13:22 GMT",
+      "x_vercel_id": "sfo1::842c8-1792221420729-6c17a060825c"
+    },
+    "assets/optimized/quilted-eye-airbag-home-massage-chair.89384d05f85f.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/quilted-eye-airbag-home-massage-chair.89384d05f85f.webp",
+      "status": 200,
+      "bytes": 28086,
+      "sha256": "89384d05f85f71e1cc7f8cda242ab682aed4f1a9ea635647378be448b8143e24",
+      "content_type": "image/webp",
+      "etag": "\"ea079f31d4ea080c722a6e773ff0ca0a\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:01 GMT",
+      "x_vercel_id": "sfo1::zzv4h-1792221421560-1370be77a702"
+    },
+    "assets/optimized/rs1178-premium-massage-chair.1aaa5df97090.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/rs1178-premium-massage-chair.1aaa5df97090.webp",
+      "status": 200,
+      "bytes": 64062,
+      "sha256": "1aaa5df97090ddf1ce0804bee23a4b7830cabb462cad62f2f9d2510ea2681f4d",
+      "content_type": "image/webp",
+      "etag": "\"88e4f0261d885c443f3bbf3d24dd60eb\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:02 GMT",
+      "x_vercel_id": "sfo1::vrgdq-1792221422587-f02c54eff2e0"
+    },
+    "assets/optimized/silver-sl-track-massage-chair.90c5a0585eeb.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/silver-sl-track-massage-chair.90c5a0585eeb.webp",
+      "status": 200,
+      "bytes": 21614,
+      "sha256": "90c5a0585eeb8a478664bdbe641230bf265fd1e2c93a1e0964da276fc99657e4",
+      "content_type": "image/webp",
+      "etag": "\"c97b2586288befd15adeadee6707b4da\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:03 GMT",
+      "x_vercel_id": "sfo1::4hdv7-1792221423649-dd754ec80f79"
+    },
+    "assets/optimized/six-head-premium-massage-chair.9e231df609cb.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/six-head-premium-massage-chair.9e231df609cb.webp",
+      "status": 200,
+      "bytes": 28266,
+      "sha256": "9e231df609cbf4d5e70d5fd72a4b7db02a87edc33eac24e4441bf45a67c5ec5c",
+      "content_type": "image/webp",
+      "etag": "\"4ce062385959378a9eeaddfed2ea924c\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:05 GMT",
+      "x_vercel_id": "sfo1::dsrq2-1792221425158-15b048b5ce39"
+    },
+    "assets/optimized/sonic-canopy-massage-chair.26725309070f.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/sonic-canopy-massage-chair.26725309070f.webp",
+      "status": 200,
+      "bytes": 25160,
+      "sha256": "26725309070f90549b1b322f638b7f8a2a6c9fc231940cc8b6cdd202062eb7ed",
+      "content_type": "image/webp",
+      "etag": "\"2572d66acb53bc1216d3f3c6f48b066f\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:06 GMT",
+      "x_vercel_id": "sfo1::l828f-1792221426116-4392db79c257"
+    },
+    "assets/optimized/true-4d-premium-massage-chair.046e0de6dbee.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/true-4d-premium-massage-chair.046e0de6dbee.webp",
+      "status": 200,
+      "bytes": 26516,
+      "sha256": "046e0de6dbee610ce34a3b09da4bae2538ead850d81c94b7c1588e525bd51a31",
+      "content_type": "image/webp",
+      "etag": "\"8f40656e1885df8beafd9ff6cc68e3c6\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:07 GMT",
+      "x_vercel_id": "sfo1::c898p-1792221427070-a27d42a422e6"
+    },
+    "assets/optimized/white-home-comfort-massage-chair.9b785c8222ba.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/white-home-comfort-massage-chair.9b785c8222ba.webp",
+      "status": 200,
+      "bytes": 21184,
+      "sha256": "9b785c8222ba5b8867ce97e7f60dd2a337701f6188a6427fbed2fe5ea803e215",
+      "content_type": "image/webp",
+      "etag": "\"447d726bfd3f2ba991a9cbb8069eec0d\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:08 GMT",
+      "x_vercel_id": "sfo1::c898p-1792221428041-d6a204ba603b"
+    },
+    "assets/optimized/zz301-massage-chair.6adea3fac364.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz301-massage-chair.6adea3fac364.webp",
+      "status": 200,
+      "bytes": 57360,
+      "sha256": "6adea3fac364279d39452f3584b8c9a9f64170cec3f0398e638f4c469ed92231",
+      "content_type": "image/webp",
+      "etag": "\"78db460f9bfea7abdd78088b4b090734\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:09 GMT",
+      "x_vercel_id": "sfo1::7zcjh-1792221428992-70ef56066d06"
+    },
+    "assets/optimized/zzm15-massage-chair.5099ddef2166.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zzm15-massage-chair.5099ddef2166.webp",
+      "status": 200,
+      "bytes": 53882,
+      "sha256": "5099ddef2166dcb359175ae55fb70e8be904c391dec3b4932debdfb419b10451",
+      "content_type": "image/webp",
+      "etag": "\"5538154a9191cab5e44fde68b002b445\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:10 GMT",
+      "x_vercel_id": "sfo1::c898p-1792221430101-62c1fba126db"
+    },
+    "assets/optimized/zzg12-massage-chair.9f0c785fb9fb.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zzg12-massage-chair.9f0c785fb9fb.webp",
+      "status": 200,
+      "bytes": 49132,
+      "sha256": "9f0c785fb9fbba210455144bd602a81b7dc62f6f1d7045dc5eedaaa9b06c7dd6",
+      "content_type": "image/webp",
+      "etag": "\"3c369f68eebf49072510e618f0889a38\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:11 GMT",
+      "x_vercel_id": "sfo1::8zz9p-1792221431149-7d4f3ce55529"
+    },
+    "assets/optimized/zz313-massage-chair.12bc552f8e38.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz313-massage-chair.12bc552f8e38.webp",
+      "status": 200,
+      "bytes": 54464,
+      "sha256": "12bc552f8e3852428e878aa8e52bb634faede54b974315947f437b52c3f70bbb",
+      "content_type": "image/webp",
+      "etag": "\"e2c3ffde0f02fd22ca714c48094cadfd\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:12 GMT",
+      "x_vercel_id": "sfo1::bdr47-1792221432196-5c105822aeb6"
+    },
+    "assets/optimized/zz316-massage-chair.f4271fbf5865.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz316-massage-chair.f4271fbf5865.webp",
+      "status": 200,
+      "bytes": 54676,
+      "sha256": "f4271fbf58657b79c44a1d823c199fa759c1d970080e65724ad75731d5842454",
+      "content_type": "image/webp",
+      "etag": "\"068c854714101b989aaa9a481c573ff8\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:15 GMT",
+      "x_vercel_id": "sfo1::26cx2-1792221435381-6252d81309ab"
+    },
+    "assets/optimized/zz4301b-massage-chair.b26fa74472bd.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz4301b-massage-chair.b26fa74472bd.webp",
+      "status": 200,
+      "bytes": 79474,
+      "sha256": "b26fa74472bd0a579b7f09b6f29cdf2a214371b8c2de6d71cf1a499926cc4cf1",
+      "content_type": "image/webp",
+      "etag": "\"3e5d1607f4e4d05934ef2918d2f7b82b\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:17 GMT",
+      "x_vercel_id": "sfo1::7zcjh-1792221437009-e3ce0d4006c4"
+    },
+    "assets/optimized/zz860a-massage-chair.7a01aa9ba7e9.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz860a-massage-chair.7a01aa9ba7e9.webp",
+      "status": 200,
+      "bytes": 88236,
+      "sha256": "7a01aa9ba7e9ef1067c3ceb57229eaf0f1b6874d06af60204445d8d0bdd00abd",
+      "content_type": "image/webp",
+      "etag": "\"b5de8edc205538292826e67859f0edd1\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:18 GMT",
+      "x_vercel_id": "sfo1::c8bvj-1792221438290-cc143b8ab0f7"
+    },
+    "assets/optimized/zz867a-massage-chair.4f0ca4224d1b.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz867a-massage-chair.4f0ca4224d1b.webp",
+      "status": 200,
+      "bytes": 37840,
+      "sha256": "4f0ca4224d1bb75f39632714ccc4239d17a42f21f3126c120f474b9f74a72879",
+      "content_type": "image/webp",
+      "etag": "\"1592270a2dcd0022ab27fc0638c48841\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:19 GMT",
+      "x_vercel_id": "sfo1::6ghrm-1792221439444-cf796834b1b5"
+    },
+    "assets/optimized/zz92-massage-chair.6e757ad035f9.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zz92-massage-chair.6e757ad035f9.webp",
+      "status": 200,
+      "bytes": 80842,
+      "sha256": "6e757ad035f9738576223dfb7e8cad58329be192de321452dc3ee4dd0b6805b8",
+      "content_type": "image/webp",
+      "etag": "\"a69edde4d4d5f15d6a988795f30d54af\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:21 GMT",
+      "x_vercel_id": "sfo1::h2psk-1792221440904-69040d251992"
+    },
+    "assets/optimized/zza10-massage-chair.86ee47ac836e.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zza10-massage-chair.86ee47ac836e.webp",
+      "status": 200,
+      "bytes": 50528,
+      "sha256": "86ee47ac836eea18ebb9e62447755a6172fd2103256fdb681b9b8329df095958",
+      "content_type": "image/webp",
+      "etag": "\"32dfe6de1acc3c918736cdbf0906e94f\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:22 GMT",
+      "x_vercel_id": "sfo1::5mhlt-1792221442138-344744cd0765"
+    },
+    "assets/optimized/zzr1-massage-chair.2839aa08b478.webp": {
+      "url": "https://www.yimixchair.com/assets/optimized/zzr1-massage-chair.2839aa08b478.webp",
+      "status": 200,
+      "bytes": 50122,
+      "sha256": "2839aa08b4785afe0a56702a8f63535a8bbca8b6f4f09f0d2ec757be67031c72",
+      "content_type": "image/webp",
+      "etag": "\"36f174aece69b050f6364a4d9fcfffd4\"",
+      "last_modified": "Sat, 17 Oct 2026 07:17:23 GMT",
+      "x_vercel_id": "sfo1::6ghrm-1792221443304-f5978a070388"
+    },
+    "blog/index.html": {
+      "url": "https://www.yimixchair.com/blog/index.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/assets/optimized/yimix-brand-logo.ed4fe0647f16.webp": {
+      "url": "https://www.yimixchair.com/blog/assets/optimized/yimix-brand-logo.ed4fe0647f16.webp",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/products.html": {
+      "url": "https://www.yimixchair.com/blog/products.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/home-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/blog/home-massage-chairs.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/commercial-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/blog/commercial-massage-chairs.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/mid-range-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/blog/mid-range-massage-chairs.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/premium-massage-chairs.html": {
+      "url": "https://www.yimixchair.com/blog/premium-massage-chairs.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/blog.html": {
+      "url": "https://www.yimixchair.com/blog/blog.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/massage-chair-buying-guide.html": {
+      "url": "https://www.yimixchair.com/blog/massage-chair-buying-guide.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/massage-chair-faq.html": {
+      "url": "https://www.yimixchair.com/blog/massage-chair-faq.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "blog/assets/optimized/whatsapp-reference.34730f906cb9.webp": {
+      "url": "https://www.yimixchair.com/blog/assets/optimized/whatsapp-reference.34730f906cb9.webp",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "downloads/yimix-sample-review-checklist.csv": {
+      "url": "https://www.yimixchair.com/downloads/yimix-sample-review-checklist.csv",
+      "status": 200,
+      "bytes": 895,
+      "sha256": "1752b8edabd0fe721041f3ab0835f3a844a4af3570f3b29c7356f1f23d9ddcfe",
+      "content_type": "text/csv; charset=utf-8",
+      "etag": "\"385ef9cd787df7091f8e6a71e3f14ea7\"",
+      "last_modified": "Sat, 17 Oct 2026 07:18:19 GMT",
+      "x_vercel_id": "sfo1::7tfh4-1792221499665-606c8ace9369"
+    },
+    "downloads/yimix-rfq-comparison-template.csv": {
+      "url": "https://www.yimixchair.com/downloads/yimix-rfq-comparison-template.csv",
+      "status": 200,
+      "bytes": 784,
+      "sha256": "95bf977fb3aa6c02d8e4c657685e9e40f5d92c41efe56c0c210b294ebf0c1066",
+      "content_type": "text/csv; charset=utf-8",
+      "etag": "\"d0e8da6b852c299cbf62c7e27a33e02a\"",
+      "last_modified": "Sat, 17 Oct 2026 07:18:46 GMT",
+      "x_vercel_id": "sfo1::5hpj6-1792221526518-824aff40a815"
+    },
+    "product.html": {
+      "url": "https://www.yimixchair.com/product.html",
+      "status": 200,
+      "bytes": 53251,
+      "sha256": "cef29ca71551539710fb664e876233b3bc9aab6d6ff48fc35a9b0755d0938531",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"a2e00a41f82f192fe24c61bb671f8413\"",
+      "last_modified": "Sat, 17 Oct 2026 04:37:57 GMT",
+      "route_dependencies": {
+        "category=home": "home-massage-chair.html",
+        "category=high-end": "high-end-massage-chair.html"
+      },
+      "source_note": "Captured from current Production; file content is stored in the independent candidate copy."
+    }
+  }
+}

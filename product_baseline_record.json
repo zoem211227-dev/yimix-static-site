@@ -1,0 +1,13 @@
+{
+  "url": "https://www.yimixchair.com/product.html",
+  "status": 200,
+  "bytes": 53251,
+  "sha256": "cef29ca71551539710fb664e876233b3bc9aab6d6ff48fc35a9b0755d0938531",
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"a2e00a41f82f192fe24c61bb671f8413\"",
+  "last_modified": "Sat, 17 Oct 2026 04:37:57 GMT",
+  "route_dependencies": {
+    "category=home": "home-massage-chair.html",
+    "category=high-end": "high-end-massage-chair.html"
+  }
+}
