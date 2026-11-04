@@ -3,6 +3,13 @@
   "buildCommand": null,
   "installCommand": null,
   "outputDirectory": ".",
+  "redirects": [
+    { "source": "/oem-odm.html", "destination": "/blog/oem-odm.html", "permanent": true },
+    { "source": "/blog/products.html", "destination": "/products.html", "permanent": true },
+    { "source": "/blog/massage-chair-buying-guide.html", "destination": "/massage-chair-buying-guide.html", "permanent": true },
+    { "source": "/blog/massage-chair-faq.html", "destination": "/massage-chair-faq.html", "permanent": true },
+    { "source": "/product.html", "destination": "/products.html", "permanent": true }
+  ],
   "headers": [
     {
       "source": "/assets/optimized/:path*",
